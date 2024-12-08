@@ -1,11 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
-
-:root {
-    --bg-color: #32012F;
-    --primary-color: #f32a9f;
-    --secondary-color: #9c366e;
-    --font: "Nunito Sans", sans-serif;
-}
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&display=swap')
+    :root{
+        --bg-color: #030637;
+        --primary-color:#FFF7FC;
+        --secondary-color:#910A67;
+        --font: "Arima", system-ui;
+    }
 
 body {
     background-color: var(--bg-color);
